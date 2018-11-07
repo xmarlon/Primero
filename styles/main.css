@@ -1,28 +1,74 @@
-*{margin: 0;
-padding: 0;
+*{
+    margin: 0;
+    padding: 0;
 }
-.page1{
-    white: 970;
-    height: 1390;
-    background-color: purple;
-    padding: 10px 0 30px 0; 
+.page1
+{
+    height:1390 ;
+    margin: 60px 0 0 80px;
+    width: 970;  
+    background-color: blueviolet;
+    padding: 10px 0 30px 0;
 }
+
+
 .page1 article, .page1 div, .page1 aside{
     width: 900px;
 }
+
+
 .page1 article{
-    height: 600px;
-    margin: 0 30px 20px 40px;
-    background-color: pink;
-}
-.page1 div{
-    height: 600px;
-    width: 0 10px 30px 60px;
-    background-color: crimson;
+   height: 600px;
+ margin: 0 30px 20px 40px;
+  background-color: pink;
 }
 
- .page1 aside{
-     height: 300px;
-     margin: 0 40px 0 30px ;
-    background-color: aquamarine;
- }
+
+.page1 div{
+       height: 400px;
+      margin: 0 10px 30px 60px;
+      background-color: crimson;
+} 
+.page1 aside {
+    height: 300px;
+    margin: 0 40px 0 30px;
+    background-color: chartreuse 
+}
+
+.page2{
+    width: 895px;
+    height: 950px;
+    margin: 60px 0 0 80px;
+    padding-top: 30px;
+    background-color: blue;
+}
+.page2a{
+    
+    width: 835px;
+    height: 260px;
+    margin: 0px 20px 15px 40px;
+    padding: 30px 0 10px 0px ;
+    background-color: #8F3737;
+}
+
+.page2xb{
+    width: 800px;
+    height: 100px;
+    margin: 0px 15px 20px 20px;
+    background-color: greenyellow;
+    padding-top: 10px;
+    
+}
+.page2xc{
+    width: 800px;
+    height: 100px;
+    margin: 0px 15px 20px 20px;
+    background-color: greenyellow;
+    padding-top: 10px;
+}
+.page2xd{
+    width: 835px;
+    height: 350px;
+    margin: 0 30px 20px 30px;
+    background-color: brown;
+}
